@@ -27,19 +27,19 @@ Below are previews of the wallpapers included in this collection. Click on any i
 | Preview                                    | Filename                                    | Description                        |
 |--------------------------------------------|---------------------------------------------|------------------------------------|
 | ![Titan](https://raw.githubusercontent.com/rko4/space_wallpapers/main/1461478166_titan.jpg) | `1461478166_titan.jpg`                      | Saturn’s largest moon, Titan       |
-| ![Nebula](https://raw.githubusercontent.com/rko4/space_wallpapers/main/70c7a5750de6620ce5cb2e43b62d719b.jpg) | `70c7a5750de6620ce5cb2e43b62d719b.jpg`      | Deep‑space nebula                  |
-| ![Spiral Galaxy](https://raw.githubusercontent.com/rko4/space_wallpapers/main/713309332.jpg) | `713309332.jpg`                             | Spiral galaxy close‑up             |
-| ![Star Cluster](https://raw.githubusercontent.com/rko4/space_wallpapers/main/LNM5Qk0.jpg) | `LNM5Qk0.jpg`                               | Star cluster                       |
+| ![Nebula](https://raw.githubusercontent.com/rko4/space_wallpapers/main/70c7a5750de6620ce5cb2e43b62d719b.jpg) | `70c7a5750de6620ce5cb2e43b62d719b.jpg`      | Earth clouds                   |
+| ![Spiral Galaxy](https://raw.githubusercontent.com/rko4/space_wallpapers/main/713309332.jpg) | `713309332.jpg`                             | Saturn with its rings             |
+| ![Star Cluster](https://raw.githubusercontent.com/rko4/space_wallpapers/main/LNM5Qk0.jpg) | `LNM5Qk0.jpg`                               | Big Red Spot on Jupiter                       |
 | ![NGC 1300](https://raw.githubusercontent.com/rko4/space_wallpapers/main/NGC%201300.jpg) | `NGC 1300.jpg`                              | Barred spiral galaxy NGC 1300      |
 | ![Interacting Galaxies](https://raw.githubusercontent.com/rko4/space_wallpapers/main/NGC%202207%20and%20IC%202163.jpg) | `NGC 2207 and IC 2163.jpg`                  | Interacting galaxies               |
 | ![High-Res Scene](https://raw.githubusercontent.com/rko4/space_wallpapers/main/hq-wallpapers_ru_space_14645_1920x1080.jpg) | `hq-wallpapers_ru_space_14645_1920x1080.jpg`| High‑res space scene (1920×1080)   |
-| ![Planet Surface](https://raw.githubusercontent.com/rko4/space_wallpapers/main/look.com.ua-51597.jpg) | `look.com.ua-51597.jpg`                     | Planetary surface                  |
-| ![Colorful Nebula](https://raw.githubusercontent.com/rko4/space_wallpapers/main/look.com.ua-88299.jpg) | `look.com.ua-88299.jpg`                     | Colorful nebula                    |
+| ![Planet Surface](https://raw.githubusercontent.com/rko4/space_wallpapers/main/look.com.ua-51597.jpg) | `look.com.ua-51597.jpg`                     | Venus                  |
+| ![Colorful Nebula](https://raw.githubusercontent.com/rko4/space_wallpapers/main/look.com.ua-88299.jpg) | `look.com.ua-88299.jpg`                     | Earth clouds                   |
 | ![Pinwheel Galaxy](https://raw.githubusercontent.com/rko4/space_wallpapers/main/m101.jpg) | `m101.jpg`                                  | Pinwheel Galaxy (M101)             |
 | ![Andromeda](https://raw.githubusercontent.com/rko4/space_wallpapers/main/m31.jpg) | `m31.jpg`                                   | Andromeda Galaxy (M31)             |
 | ![Andromeda View](https://raw.githubusercontent.com/rko4/space_wallpapers/main/m31%20(2).jpg) | `m31 (2).jpg`                               | Andromeda alternate view           |
-| ![Cosmic Dust](https://raw.githubusercontent.com/rko4/space_wallpapers/main/mota_ru_1080830.jpg) | `mota_ru_1080830.jpg`                       | Cosmic dust lanes                  |
-| ![Pelican Nebula](https://raw.githubusercontent.com/rko4/space_wallpapers/main/pelikan-severnaia-amerika-tumannosti-kosmos.jpg) | `pelikan-severnaia-amerika-tumannosti-kosmos.jpg` | “Pelican” Nebula           |
+| ![Cosmic Dust](https://raw.githubusercontent.com/rko4/space_wallpapers/main/mota_ru_1080830.jpg) | `mota_ru_1080830.jpg`                       | Moon                 |
+| ![Pelican Nebula](https://raw.githubusercontent.com/rko4/space_wallpapers/main/pelikan-severnaia-amerika-tumannosti-kosmos.jpg) | `pelikan-severnaia-amerika-tumannosti-kosmos.jpg` | “Pelican” and "North America" nebulas           |
 | ![Sombrero Galaxy](https://raw.githubusercontent.com/rko4/space_wallpapers/main/sombrero.jpg) | `sombrero.jpg`                              | Sombrero Galaxy (M104)             |
 | ![Sun HD](https://raw.githubusercontent.com/rko4/space_wallpapers/main/sun-1920x1080.jpg) | `sun-1920x1080.jpg`                         | Our Sun in HD (1920×1080)          |
 | ![Earth](https://raw.githubusercontent.com/rko4/space_wallpapers/main/zemlya-iz-kosmosa.orig.jpg) | `zemlya-iz-kosmosa.orig.jpg`                | Earth from space                   |
