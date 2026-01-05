@@ -44,7 +44,8 @@ Below are previews of the wallpapers included in this collection. Click on any i
 | ![Sun HD](https://raw.githubusercontent.com/rko4/space_wallpapers/main/sun-1920x1080.jpg) | `sun-1920x1080.jpg`                         | Our Sun in HD (1920×1080)          |
 | ![Earth](https://raw.githubusercontent.com/rko4/space_wallpapers/main/zemlya-iz-kosmosa.orig.jpg) | `zemlya-iz-kosmosa.orig.jpg`                | Earth from space                   |
 | ![Horsehead Nebula](https://raw.githubusercontent.com/rko4/space_wallpapers/main/конская_голова.jpg) | `конская_голова.jpg`                        | Horsehead Nebula                   |
-
+| ![The Day the Earth Smiled - Earth](https://raw.githubusercontent.com/rko4/space_wallpapers/refs/heads/main/the_day_earth_smiled.png) | `the_day_earth_smiled.png`                        | The Day the Earth Smiled - Earth          |
+| ![The Day the Earth Smiled - Full](https://raw.githubusercontent.com/rko4/space_wallpapers/refs/heads/main/1920px-The_Day_the_Earth_Smiled_-_PIA17172.jpg) | `1920px-The_Day_the_Earth_Smiled_-_PIA17172.jpg` | The Day the Earth Smiled - Full |
 ---
 
 ## Usage
